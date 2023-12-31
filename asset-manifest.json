@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/new_year_count_down/static/css/main.bc9e27a2.css",
+    "main.js": "/new_year_count_down/static/js/main.179501d0.js",
+    "static/js/787.b897a2f4.chunk.js": "/new_year_count_down/static/js/787.b897a2f4.chunk.js",
+    "index.html": "/new_year_count_down/index.html",
+    "main.bc9e27a2.css.map": "/new_year_count_down/static/css/main.bc9e27a2.css.map",
+    "main.179501d0.js.map": "/new_year_count_down/static/js/main.179501d0.js.map",
+    "787.b897a2f4.chunk.js.map": "/new_year_count_down/static/js/787.b897a2f4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc9e27a2.css",
+    "static/js/main.179501d0.js"
+  ]
+}
